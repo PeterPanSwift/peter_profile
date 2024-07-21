@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2FPeterPanSwift%2Fpeter_profile">
+  <img
+    height="32"
+    alt="Open in IDX"
+    src="https://cdn.idx.dev/btn/open_dark_32.svg">
+</a>
